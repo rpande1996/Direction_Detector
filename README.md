@@ -4,7 +4,7 @@
 
 ## Overview
 
-This code uses HSV masks to detect a arrow and determines the direction its pointing towards.
+This code uses HSV masks to detect an arrow and determines the direction its pointing towards.
 A separate code then plots the histogram of processing time required for the signal tracking
 
 ## Hardware
